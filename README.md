@@ -19,6 +19,14 @@ Task 2: Unemployment Analysis
 - Visualized insights using graphs
 
 
+Task 3: Car Price Prediction
+
+- Built a Linear Regression model to predict car prices
+- Performed data preprocessing and feature encoding
+- Evaluated model performance using MAE and MSE
+- Visualized actual vs predicted prices using scatter plots
+
+
 Tools & Technologies
 
 - Python
@@ -34,12 +42,16 @@ Key Insights
 - Different machine learning models can perform similarly well on simple datasets
 - Unemployment rate spiked significantly during the COVID-19 lockdown period
 - Gradual recovery in employment was observed after mid-2020
-- Seasonal trends indicate higher unemployment in April–May
+- Seasonal trends indicate higher unemployment during April–May
+- Regression models can effectively predict car prices using historical and categorical data
+- Data preprocessing and feature encoding play an important role in improving regression model performance
+- The predicted car prices showed a strong positive relationship with actual prices, indicating effective model learning
 
 
 Repository Structure
 
 - Iris_Classification.ipynb
 - Unemployment_Analysis.ipynb
+- Car_price_preiction.ipynb
 
 This work was completed as part of the CodeAlpha Data Science Internship.
