@@ -27,6 +27,15 @@ Task 3: Car Price Prediction
 - Visualized actual vs predicted prices using scatter plots
 
 
+Task 4: Sales Prediction using Python
+
+- Built a Linear Regression model for sales prediction
+- Performed data cleaning and preprocessing
+- Predicted sales using advertising data
+- Evaluated model performance using MAE and MSE
+- Visualized actual vs predicted sales using scatter plots
+
+
 Tools & Technologies
 
 - Python
@@ -46,12 +55,14 @@ Key Insights
 - Regression models can effectively predict car prices using historical and categorical data
 - Data preprocessing and feature encoding play an important role in improving regression model performance
 - The predicted car prices showed a strong positive relationship with actual prices, indicating effective model learning
-
+- Linear Regression can effectively model the relationship between advertising investment and sales performance
+- Sales prediction models can provide useful business insights for forecasting and marketing analysis
 
 Repository Structure
 
 - Iris_Classification.ipynb
 - Unemployment_Analysis.ipynb
 - Car_price_preiction.ipynb
+- Sales_prediction.ipynb
 
 This work was completed as part of the CodeAlpha Data Science Internship.
